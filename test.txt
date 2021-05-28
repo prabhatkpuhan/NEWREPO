@@ -1,1 +1,2 @@
 This is my first try in GIT
+I have added this new line after done my first commit.
